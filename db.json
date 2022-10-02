@@ -1,0 +1,25 @@
+{
+  "topIcons": [
+    {
+      "title": "assesment",
+      "iconID": "GrNotes",
+      "link": "https://www.shine.com/techassessments/",
+      "colorId": "#81E6D9",
+      "iconColor": "#319795"
+    },
+    {
+      "title": "career path",
+      "iconID": "BsSignpost2",
+      "link": "https://www.shine.com/#",
+      "colorId": "#FEB2B2",
+      "iconColor": "#D53F8C"
+    },
+    {
+      "title": "dreem job",
+      "iconID": "ImOffice",
+      "link": "https://www.shine.com/new/job-search/",
+      "colorId": "#90CDF4",
+      "iconColor": "#319795"
+    }
+  ]
+}
